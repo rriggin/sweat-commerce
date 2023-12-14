@@ -1,0 +1,94 @@
+#-------------------------------
+# Site Settings
+title: Sweat Commerce
+logo: '/images/logo.png'
+author: Ryan Riggin
+description: Sweat Commerce | E-Commerce Growth Consulting
+
+
+#-------------------------------
+# Menu Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: '$100k Coffee'
+      url: '/100k-coffee/'
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: Fractional CMO, Technology & Growth Marketing for DTC ECommerce Brands.
+  hero__description: I do growth for e-commerce brands, and operate a portfolio of my own brands. Running an e-commerce brand is work. If you need a partner that will grind in the trenches with you, book a call. 
+
+
+#-------------------------------
+# Portfolio Settings
+portfolio:
+  portfolio__title: Brands I've Worked With
+  portfolio__gallery:
+    - image: /images/borahlogo.png
+      title: Borah Teamwear
+
+    - image: /images/altanglelogo.png
+      title: AltAngle Cycling
+
+    - image: /images/turnikitlogo.png
+      title: Turnikit 
+
+    - image: /images/urbanlogo.png
+      title: Urban Cycling
+
+    - image: /images/konalogo.png
+      title: Kona Tri Apparel
+
+    - image: /images/cptlogo.png
+      title: Constructive Playthings
+
+    - image: /images/bluechiplogo.png
+      title: Blue Chip Athletic
+
+    - image: /images/mrdavislogo.png
+      title: Mr. Davis
+
+    - image: /images/ozarklogo.png
+      title: Ozark Cycling
+#-------------------------------
+# Subscribe Settings
+mailchimp:
+  mailchimp__title: Get updates and digital art inspiration # Add your Title
+  mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+  mailchimp__button__text: Subscribe # Add your button text.
+  mailchimp__bg__color: "#f2eef8" # To change the color of the figure, add a hexadecimal color code (HEX). For example - "#f2eef8" (You can generate any color here - https://htmlcolorcodes.com/).
+
+
+#-------------------------------
+# Footer Settings
+social:
+- {icon: "ion-logo-twitter", color: "#55acee", label: Twitter, link: "https://twitter.com/sweatcommerce"}
+- {icon: "ion-logo-youtube", color: "#3b5999", label: Youtube, link: "https://youtube/#"}
+
+# Example of adding a new link to the footer section - {icon: "ion-logo-github", color: "#24292e, label: Github, link: "https://github.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: your@email.com # Add your email for contact form
+  description: Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form.
+
+# NOTE
+# Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+
+disqus-identifier: anvodstudio-demo # add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
